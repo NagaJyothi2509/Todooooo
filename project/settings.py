@@ -59,7 +59,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 # settings.py
 
 CORS_ALLOWED_ORIGINS = [
-    "https://frontend-co453nzw3-nagajyothi2509.vercel.app",
+    "https://frontend-7ado4qc9s-nagajyothi2509.vercel.app",
     # Add any other allowed origins here
 ]
 
